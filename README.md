@@ -11,5 +11,3 @@ buatlah project node baru bernama mileage, dengan versi 1.0.0, dan struktur seba
 
 Fungsi dibuat pada file function.js lalu dipanggil dan dijalankan di app.js
 
-deadline sampai jam 15.00 WIB 
-dikumpulkan di repo masing-masing dengan nama repo "mileage" https://github.com/<username>/mileage.git
